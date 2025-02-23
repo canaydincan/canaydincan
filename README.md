@@ -1,5 +1,11 @@
-# 🦁 About Me:
-Hello! I am Can Aydıncan, a professional positioned at the intersection of technology and innovation. Throughout my career, I have developed a strong passion for creating innovative solutions and optimizing business processes. My Turkish heritage, originating from ancient Central Asia, deeply connects me to my cultural roots and enriches my global perspective.<br><br>📊 Experience: I have experience in software development, project management, and data analysis. With my teamwork and leadership skills, I have successfully completed challenging projects.<br><br>🚀 Vision: My goal is to accelerate digital transformation by bringing together technology and business. Participating in innovative projects and adding value is essential for me.<br><br>🎓 Education: My education in computer engineering and business has strengthened my technical knowledge and strategic thinking abilities.<br><br>🌐 Connections: I have a global network and enjoy constantly establishing new professional connections. With an innovation and growth-oriented mindset, I always aim to move forward.
+# About Me:
+I am a Computer Engineering student with a strong interest in AWS, Data Mining, Machine Learning, and Software Development. Through my academic studies and internship experiences, I have developed skills in Python, Django, data mining, and web scraping. I am particularly interested in cloud computing and artificial intelligence, and I am currently expanding my knowledge in AWS infrastructure, backend development, and full-stack web applications.
+
+My goal is to apply my technical skills in real-world projects and gain hands-on experience in cloud-based architectures and AI-driven solutions. I am always eager to learn, improve, and contribute to innovative projects in the field of technology.
+
+Currently, I am seeking internship opportunities where I can further develop my skills and gain practical experience in software engineering, cloud computing, and artificial intelligence.
+
+📩 Feel free to connect with me to exchange knowledge and explore potential collaboration opportunities.
 
 
 ## 🌐 Socials:
